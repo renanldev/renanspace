@@ -4,7 +4,7 @@
 
 Hello, world! I'm <strong>Renan</strong>, a student developer focused in Java. Here you can see some of my projects👨🏻‍💻 
 
-- 💬 Ask me about: front/back-end, Java, Python, Graphic Design</strong>
+- 💬 Ask me about: <strong>Front/Back-end, Java, Python, Graphic Design</strong>
 - 📣 We can talk in: <strong>Portuguese / English</strong>
 
 </div>
